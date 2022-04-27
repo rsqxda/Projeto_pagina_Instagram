@@ -9,5 +9,5 @@
 <li> Curso Dio;</li>
 <p></p>
 
-# Links Úteis
-[Link_Página Inicial do Instagram](https://www.instagram.com/)
+# Links Úteis:
+<h2> https://glittering-starlight-fb0828.netlify.app </h2>
